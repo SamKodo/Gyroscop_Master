@@ -3,7 +3,7 @@
 // -----------------------------
 //
 // By Sam Kodo
-// June 2012
+// June 2019
 // Open Source / Public Domain
 //
 // Using Arduino 1.0.1
